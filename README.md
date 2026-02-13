@@ -2,7 +2,7 @@
 
 ### An electrical and electronics engineering student who knows more about coding
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![](https://komarev.com/ghpvc/?username=oxyec&color=blue)
 
 
 - 🔭 I'm currently working on In a university project about ai 
