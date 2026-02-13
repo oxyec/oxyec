@@ -5,13 +5,13 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
 
-- 🔭 I'm currently working on **In a university project about ai **
+- 🔭 I'm currently working on In a university project about ai 
 
-- 🌱 I'm currently learning **Rust **
+- 🌱 I'm currently learning Rust 
 
-- 👯 I'm looking to collaborate on **Any projects , I just love making things **
+- 👯 I'm looking to collaborate on Any projects , I just love making things 
 
-- 🤝 I'm looking for help with **Databases **
+- 🤝 I'm looking for help with Databases 
 
 - 📫 How to reach me **canbolat@hotmail.com.tr**
 
