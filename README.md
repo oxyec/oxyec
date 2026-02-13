@@ -2,9 +2,8 @@
 
 ### An electrical and electronics engineering student who knows more about coding
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oxyec&label=Profile views&color=0e75b6&style=flat" alt="oxyec" /> </p>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oxyec" alt="oxyec" /></a> </p>
 
 - 🔭 I'm currently working on **In a university project about ai **
 
