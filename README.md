@@ -5,6 +5,8 @@
 ![](https://komarev.com/ghpvc/?username=oxyec&color=blue)
 
 
+# My demo app = https://academic-searcher.streamlit.app
+
 - 🔭 I'm currently working on In a university project about ai 
 
 - 🌱 I'm currently learning Rust 
