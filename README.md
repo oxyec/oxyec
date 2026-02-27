@@ -5,6 +5,10 @@
 ![](https://komarev.com/ghpvc/?username=oxyec&color=blue)
 
 
+[![oxyec](https://github-readme-activity-graph.vercel.app/graph?username=oxyec&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 # My demo app = https://academic-searcher.streamlit.app
 
 - 🔭 I'm currently working on In a university project about ai 
