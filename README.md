@@ -10,7 +10,7 @@
 
 
 # My demo sites = https://academic-searcher.streamlit.app
-                  https://karabasan.fly.dev
+#                 https://karabasan.fly.dev
 - 🔭 I'm currently working on In a university project about ai 
 
 - 🌱 I'm currently learning Rust 
